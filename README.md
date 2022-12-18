@@ -33,3 +33,6 @@ resource packs originais, não é mesmo? :)
 
 ## AmberW
 * [Negative Space Font](https://www.spigotmc.org/threads/negative-space-font-resource-pack.440952/)
+
+## C0de
+* [Fan made texture](https://github.com/c0dezinnn/sparkly-power-fanmade-texture)
