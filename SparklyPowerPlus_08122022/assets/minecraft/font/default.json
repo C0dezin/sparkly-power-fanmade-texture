@@ -1,0 +1,150 @@
+{
+    "providers": [
+        {
+            "file": "sparklypower:font/pantufa.png",
+            "chars": [
+                "\ue238"
+            ],
+            "height": 52,
+            "ascent": 33,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:font/loritta.png",
+            "chars": [
+                "\ue239"
+            ],
+            "height": 52,
+            "ascent": 33,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:font/loritta.png",
+            "chars": [
+                "\ue23a"
+            ],
+            "height": 52,
+            "ascent": -250,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:font/porfavor.png",
+            "chars": [
+                "\ue23b"
+            ],
+            "height": 10,
+            "ascent": 9,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:font/tags.png",
+            "chars": [
+                "\ue23c", "\ue23d", "\ue23e", "\ue23f", "\ue240", "\ue241", "\ue242", "\ue243", "\ue244", "\ue245"
+            ],
+            "height": 8,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:font/staff.png",
+            "chars": [
+                "\ue246\ue247\ue248\ue249\ue24a\ue24b\ue24c\ue24d\ue24e\ue24f"
+            ],
+            "height": 8,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:font/fire.png",
+            "chars": [
+                "\ue250"
+            ],
+            "height": 8,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:font/staff_utils.png",
+            "chars": [
+                "\ue251\ue252"
+            ],
+            "height": 8,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:gui/9_slots_guis.png",
+            "chars": [
+                "\ue254\ue259"
+            ],
+            "height": 51,
+            "ascent": 23,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:gui/27_slots_guis.png",
+            "chars": [
+                "\ue256"
+            ],
+            "height": 87,
+            "ascent": 23,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:gui/36_slots_guis.png",
+            "chars": [
+                "\ue257"
+            ],
+            "height": 105,
+            "ascent": 23,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:gui/45_slots_guis.png",
+            "chars": [
+                "\ue258"
+            ],
+            "height": 123,
+            "ascent": 23,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:gui/54_slots_guis.png",
+            "chars": [
+                "\ue253\ue255\ue261\ue262"
+            ],
+            "height": 141,
+            "ascent": 23,
+            "type": "bitmap"
+        },
+        {
+            "file": "sparklypower:gui/sparklypower.png",
+            "chars": [
+                "\ue260"
+            ],
+            "height": 10,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+
+        {
+
+            "type":"bitmap",
+            "file":"space:font/space_split.png",
+            "ascent":-32768,
+            "height":-10,
+            "chars":[
+                "ꈉ"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"space:font/space_split.png",
+            "ascent":-32768,
+            "height":-167,
+            "chars":[
+                "陇"
+            ]
+        }
+    ]
+}
