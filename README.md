@@ -20,10 +20,13 @@ então nada mais justo dar os devidos créditos a todos que fizeram as
 resource packs originais, não é mesmo? :)
 
 ## MrPowerGamerBR
-* [Dono da Loritta/SparklyPower/PerfectDreams (e a pessoa que escreveu este arquivo!)](https://mrpowergamerbr.com)
+* [Dono da Loritta/SparklyPower/PerfectDreams](https://mrpowergamerbr.com)
 
 ## Loritta
 * [A mascote mais fofa que existe!](https://loritta.website)
+
+## C0de
+* [Fan made texture](https://github.com/c0dezinnn/sparkly-power-fanmade-texture)
 
 ## rezoner
 * [Happy Arcade Tune](https://opengameart.org/content/happy-arcade-tune)
@@ -33,6 +36,3 @@ resource packs originais, não é mesmo? :)
 
 ## AmberW
 * [Negative Space Font](https://www.spigotmc.org/threads/negative-space-font-resource-pack.440952/)
-
-## C0de
-* [Fan made texture](https://github.com/c0dezinnn/sparkly-power-fanmade-texture)
